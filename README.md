@@ -2,8 +2,6 @@
 
 #### A Theme For Xcode 
 
-_Read the [design story](https://medium.com/@cseanc/designing-a-swift-theme-tokyo-7133d6c77c78#.pe3squ714) on Medium_
-
 ### Updated for XCode 11
 
 - Use SF Mono medium as base font
